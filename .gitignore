@@ -39,3 +39,23 @@ Thumbs.db
 # Secrets #
 ###########
 .secret
+
+# Node #
+########
+node_modules
+
+# Yarn #
+########
+*.lock
+
+# VSCode #
+##########
+.vscode
+
+# IntelliJ #
+##########
+.idea
+
+# code coverage"
+coverage
+
